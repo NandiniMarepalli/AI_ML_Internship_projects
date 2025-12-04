@@ -21,7 +21,6 @@ This repository contains projects I worked on during my internship, focusing on:
 - 'Project3_classification': Heart disease prediction using classification models
 - 'Project4_Clustering_and_Dimensionality': Customer segmentation using K means and PCA
 - 'Project5_Deep_Learning':Digit Recognition using deep learning model (CNN)
-- 'project6_Capstone_Development': End_to_end model and web app using Flask/streamlit
 
 ##  Learning Outcomes
 
